@@ -1,0 +1,4 @@
+A 6502 machine code decompiler written in Python.
+
+Go to http://6502.emulinks.de/ for an online demo.
+For more information, check: http://6502.emulinks.de/blog/
