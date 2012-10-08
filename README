@@ -1,4 +1,7 @@
 A 6502 machine code decompiler written in Python.
 
+Example:
+python3 decomp.py -o 8000 -e 8000,8082 -i 2000-4017 test/smb1code.8000.default.2000-4017.bin
+
 Go to http://6502.emulinks.de/ for an online demo.
 For more information, check: http://6502.emulinks.de/blog/
